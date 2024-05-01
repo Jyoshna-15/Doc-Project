@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;  /* Set a base font family */
+    margin: 20px;  /* Add some margin around the content */
+  }
+  
+  h1 {
+    text-align: center;  /* Center align the heading */
+    color: #333;  /* Set the heading text color */
+  }
+  
+  p {
+    line-height: 1.5;  /* Increase line spacing for better readability */
+  }
+  
+  a {
+    color: #007bff;  /* Set the link color */
+    text-decoration: none;  /* Remove underline from links */
+  }
+  
+  a:hover {
+    color: #0056b3;  /* Change link color on hover */
+  }
+  
